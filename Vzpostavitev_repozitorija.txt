@@ -1,0 +1,9 @@
+Okej postavi se v neko mapo in odpri konzolo (vseeno je če je Linux ali Win) in vpiši:
+git clone https://github.com/polhec42/Four-In-A-Row-AI.git //klonira repozitorij in ustvari lokalno kopijo pri tebi
+git status //preveriš kakšen je tvoj status
+Potem ročno dodaš v isti mapo kot imaš zdej readme.me svoj testni program, nato pa izvedeš:
+git add . //pika pomeni vse spremembe
+git commit -m "Vklučevanje nekoga"
+git push origin master
+
+
